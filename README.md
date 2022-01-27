@@ -12,7 +12,7 @@ The main peculiarites of the projects are:
 
 These challenges were addressed using cronjobs extensively. 
 
-Basically, players pay the ticket price to regular addresses which are monitored through cronjobs. Then, when payments are detected the contract's owner registers in the smart contract the following happens:
+Basically, players pay the ticket price to regular addresses which are monitored through cronjobs. Then, when payments are detected the following happens:
 
 1) Contract owner sends 1.5 USDT to the lottery contract.
 
